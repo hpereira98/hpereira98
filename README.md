@@ -1,4 +1,4 @@
-<img src="https://github.com/hpereira98/hpereira98/blob/main/banner.png?raw=true" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/hpereira98/hpereira98/blob/main/banner.png?raw=true" alt="banner that says I am Henrique Pereira">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hpereira98)
 
