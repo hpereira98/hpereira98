@@ -1,6 +1,6 @@
 <img src="https://github.com/hpereira98/hpereira98/blob/main/banner.png?raw=true" alt="banner that says I am Henrique Pereira">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhpereira98&label=Visitors&countColor=%2337d67a)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhpereira98&label=Visitors&countColor=%23289154)
 
 ### Hello, Fellow Developers 🤖 and Data Enthusiasts 📈! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
